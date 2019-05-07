@@ -5,6 +5,6 @@ Implementación de una Arquitectura Serverless con Azure Cosmos DB, Azure Functi
 
 * Azure Cosmos DB
 * Azure Functions App
-* * Crear el storage de modo que permita subir un Static Site
+    * Crear el storage de modo que permita subir un Static Site
 * Azure SignalR
 
