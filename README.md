@@ -1,4 +1,4 @@
-# azure-discovery-day-2019
+# Azure Discovery Day-2019
 Implementación de una Arquitectura Serverless con Azure Cosmos DB, Azure Functions y Azure SignalR
 
 ## Infraestructura Necesaria en Azure
